@@ -1,0 +1,9 @@
+bin/*
+*.ucls
+*.class
+*.DS_Store
+.settings/*
+.classpath/*
+*.classpath
+.project/*
+*.project
